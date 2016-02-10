@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="78.040123mm"
-   height="106.97201mm"
-   viewBox="0 0 276.52012 379.03463"
+   width="77.998558mm"
+   height="106.93044mm"
+   viewBox="0 0 276.37284 378.88733"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1201284"
-     inkscape:cx="-99.320155"
-     inkscape:cy="288.38477"
+     inkscape:zoom="1.2124464"
+     inkscape:cx="218.05324"
+     inkscape:cy="169.46687"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,15 +48,15 @@
      inkscape:snap-global="true"
      inkscape:snap-page="true">
     <sodipodi:guide
-       position="769.4956,1020.8262"
+       position="1092.001,1020.7525"
        orientation="0,1"
        id="guide4810" />
     <sodipodi:guide
-       position="147.32169,859.04545"
+       position="469.8271,858.97176"
        orientation="1,0"
        id="guide5148" />
     <sodipodi:guide
-       position="-93.297947,267.34872"
+       position="229.20746,267.27506"
        orientation="1,0"
        id="guide4030" />
   </sodipodi:namedview>
@@ -3012,7 +3012,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-563.28495,6.5673647)"
+     transform="translate(-240.77955,6.4937047)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
@@ -3320,7 +3320,7 @@
          y="308.71747">670099325</tspan></text>
     <text
        y="309.38696"
-       x="406.90045"
+       x="413.03229"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.23233414px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="text5627"
        xml:space="preserve"
@@ -3328,8 +3328,8 @@
        transform="scale(0.97850193,1.0219704)"><tspan
          id="tspan5629"
          sodipodi:role="line"
-         x="406.90045"
-         y="309.38696">Intermediación</tspan></text>
+         x="413.03229"
+         y="309.38696">Intermediació</tspan></text>
     <text
        y="261.91074"
        x="300.2536"
@@ -3695,7 +3695,7 @@
          sodipodi:role="line"
          id="tspan4020"
          x="685.57159"
-         y="272.00809"></tspan></text>
+         y="272.00809" /></text>
     <text
        transform="scale(0.84155604,1.188275)"
        sodipodi:linespacing="100%"
@@ -3707,7 +3707,7 @@
          sodipodi:role="line"
          id="tspan4012"
          x="731.60327"
-         y="230.04756"></tspan><tspan
+         y="230.04756" /><tspan
          sodipodi:role="line"
          id="tspan4014"
          x="731.60327"
@@ -3715,7 +3715,7 @@
          sodipodi:role="line"
          id="tspan4016"
          x="731.60327"
-         y="245.99982"></tspan></text>
+         y="245.99982" /></text>
     <text
        transform="scale(0.83502837,1.1975641)"
        xml:space="preserve"
@@ -3727,7 +3727,7 @@
          sodipodi:role="line"
          id="tspan4022"
          x="736.7796"
-         y="251.63095"></tspan><tspan
+         y="251.63095" /><tspan
          sodipodi:role="line"
          id="tspan4024"
          x="736.7796"
@@ -3735,7 +3735,7 @@
          sodipodi:role="line"
          id="tspan4026"
          x="736.7796"
-         y="267.45944"></tspan></text>
+         y="267.45944" /></text>
     <text
        sodipodi:linespacing="100%"
        id="text5519"
@@ -3887,5 +3887,5 @@
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     transform="translate(-500.11836,-139.67654)" />
+     transform="translate(-177.61296,-139.7502)" />
 </svg>
