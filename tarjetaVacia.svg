@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="78.040123mm"
-   height="106.97201mm"
-   viewBox="0 0 276.52012 379.03463"
+   width="77.998558mm"
+   height="106.93044mm"
+   viewBox="0 0 276.37284 378.88733"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2692798"
-     inkscape:cx="11.90608"
-     inkscape:cy="205.11874"
+     inkscape:zoom="1.3738904"
+     inkscape:cx="239.07381"
+     inkscape:cy="219.74565"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,11 +49,11 @@
      inkscape:snap-global="true"
      inkscape:snap-page="true">
     <sodipodi:guide
-       position="769.4956,1020.8262"
+       position="1092.001,1020.7525"
        orientation="0,1"
        id="guide4810" />
     <sodipodi:guide
-       position="147.32169,859.04545"
+       position="469.8271,858.97176"
        orientation="1,0"
        id="guide5148" />
   </sodipodi:namedview>
@@ -6326,7 +6326,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-563.28495,6.5673647)"
+     transform="translate(-240.77955,6.4937047)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
@@ -7649,7 +7649,7 @@
     </g>
     <g
        id="g5499"
-       transform="translate(184.82327,205.4557)">
+       transform="translate(184.82327,165.4557)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.63199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect5421-5"
@@ -7673,7 +7673,7 @@
     </g>
     <g
        id="g5494"
-       transform="translate(184.82327,214.63937)">
+       transform="translate(184.82327,164.63937)">
       <rect
          ry="8.2361526"
          y="-56.965118"
@@ -7695,7 +7695,7 @@
            sodipodi:role="line">novaterra@novaterra.org.es</tspan></text>
     </g>
     <g
-       transform="matrix(1.1870603,0,0,1.1870603,139.15261,226.91853)"
+       transform="matrix(1.1870603,0,0,1.1870603,139.15261,170.91853)"
        id="g7398-4">
       <g
          id="g7400-0">
@@ -7775,10 +7775,18 @@
         </g>
       </g>
     </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.94556177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5389"
+       width="163.62103"
+       height="70.464882"
+       x="298.19153"
+       y="163.4734"
+       ry="8.2308283" />
   </g>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     transform="translate(-500.11836,-139.67654)" />
+     transform="translate(-177.61296,-139.7502)" />
 </svg>
