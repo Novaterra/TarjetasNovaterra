@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="77.998558mm"
-   height="106.93044mm"
-   viewBox="0 0 276.37284 378.88733"
+   width="78.040123mm"
+   height="106.97201mm"
+   viewBox="0 0 276.52012 379.03461"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92528187"
-     inkscape:cx="356.2775"
-     inkscape:cy="16.315916"
+     inkscape:zoom="1.0015411"
+     inkscape:cx="-146.34832"
+     inkscape:cy="217.74124"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,11 +48,11 @@
      inkscape:snap-global="true"
      inkscape:snap-page="true">
     <sodipodi:guide
-       position="1092.001,1020.7525"
+       position="769.4956,1020.8261"
        orientation="0,1"
        id="guide4810" />
     <sodipodi:guide
-       position="469.8271,858.97176"
+       position="147.3217,859.04539"
        orientation="1,0"
        id="guide5148" />
   </sodipodi:namedview>
@@ -9261,7 +9261,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-240.77955,6.4937047)"
+     transform="translate(-563.28495,6.5673495)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
@@ -9650,72 +9650,72 @@
     </g>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84891319px;line-height:100%;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00745424px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="323.76141"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84887505px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00745424px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="344.77081"
        y="268.72183"
        id="text5497"
        sodipodi:linespacing="100%"
        transform="scale(0.90806768,1.1012395)"><tspan
          sodipodi:role="line"
-         x="323.76141"
-         y="268.72183"
-         id="tspan5499">C/ Miguel Paredes, 1,(Iglesia La Pasión) Valencia</tspan><tspan
+         id="tspan5731"
+         x="344.77081"
+         y="268.72183">C/ Miguel Paredes, 1. 46018, Valencia</tspan><tspan
          sodipodi:role="line"
-         x="323.76141"
-         y="276.57074"
-         id="tspan5501" /></text>
+         id="tspan5733"
+         x="344.77081"
+         y="276.57071"></tspan></text>
     <text
        transform="scale(0.84155604,1.188275)"
        sodipodi:linespacing="100%"
        id="text5503"
        y="231.45305"
-       x="349.4006"
+       x="366.86234"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97609901px;line-height:100%;font-family:Nunito;-inkscape-font-specification:Nunito;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00638088px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          id="tspan5505"
          y="231.45305"
-         x="349.4006"
+         x="366.86234"
          sodipodi:role="line" /><tspan
          id="tspan5507"
          y="239.42915"
-         x="349.4006"
+         x="366.86234"
          sodipodi:role="line">Sede Valencia Créixer- Intermediación Laboral</tspan><tspan
          id="tspan5509"
          y="247.40524"
-         x="349.4006"
+         x="366.86234"
          sodipodi:role="line" /></text>
     <text
        transform="scale(0.83502837,1.1975641)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91422987px;line-height:100%;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:-0.00633139px;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="351.58917"
+       x="359.6088"
        y="253.02551"
        id="text5511"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.6088"
          y="253.02551"
          id="tspan5513" /><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.6088"
          y="260.93973"
          id="tspan5515">Sede La Coma - Espai Novaterra/ Centro Formación</tspan><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.6088"
          y="268.85397"
          id="tspan5517" /></text>
     <text
        sodipodi:linespacing="100%"
        id="text5519"
        y="269.41867"
-       x="352.2038"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.2053504px;line-height:100%;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00684303px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="373.86447"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.20537472px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00684303px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"
        transform="scale(0.83361163,1.1995994)"><tspan
-         y="269.41867"
-         x="352.2038"
          sodipodi:role="line"
-         id="tspan5521">C/ Alcácer, 21 bajo, Paterna (Barrio de La Coma) Valencia</tspan></text>
+         id="tspan5735"
+         x="373.86447"
+         y="269.41867">C/ Alcácer, 21 bajo. 46980 Paterna (Valencia)</tspan></text>
     <path
        style="fill:#786daa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 425.04492,251.81681 c -1.03548,0.98854 -5.23898,-0.93724 -2.90969,3.15909 2.08707,3.6704 2.47525,-1.55911 2.48276,2.1719 0,5.23053 -1.22071,1.24394 -1.43499,3.82679 2.97044,1.48981 1.19237,3.49008 5.10707,2.8994 3.91469,-0.5904 3.47249,-3.90551 4.53993,-1.248 1.06769,2.65723 5.67614,3.57009 6.0321,0.32217 0.35577,-3.24792 -1.06407,-2.92604 2.13882,-3.2211 3.20303,-0.29533 0,0 1.29763,-2.12075 3.23926,-5.2934 -0.89081,-3.79326 -0.89081,-3.79326 0.76233,-2.51732 1.40367,0.24101 2.4715,-1.82582 -0.15327,-1.77399 -1.45847,-3.2121 -1.45847,-3.2121 -2.95058,-2.57405 -4.24517,1.39597 -4.60081,-1.26156 -0.35609,-2.65751 -2.16076,-3.46278 -5.36366,-2.87239 -3.2027,0.59069 -1.77923,-0.59039 -2.49097,2.36218 -0.71173,2.95286 -0.0427,0.34928 -2.53451,0.0548 -2.4909,-0.29505 -2.14076,3.09879 -2.14076,3.09879 0,0 0.13929,1.29279 -0.24514,1.65982 z"
@@ -10058,5 +10058,5 @@
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     transform="translate(-177.61296,-139.7502)" />
+     transform="translate(-500.11836,-139.67656)" />
 </svg>
