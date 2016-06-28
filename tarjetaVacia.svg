@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="78.040123mm"
-   height="106.97201mm"
-   viewBox="0 0 276.52012 379.03461"
+   width="77.998558mm"
+   height="106.93044mm"
+   viewBox="0 0 276.37284 378.88731"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74356137"
-     inkscape:cx="101.10272"
-     inkscape:cy="177.66448"
+     inkscape:zoom="1.6096874"
+     inkscape:cx="311.08128"
+     inkscape:cy="205.40753"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,11 +49,11 @@
      inkscape:snap-global="true"
      inkscape:snap-page="true">
     <sodipodi:guide
-       position="769.4956,1020.8261"
+       position="1092.001,1020.7524"
        orientation="0,1"
        id="guide4810" />
     <sodipodi:guide
-       position="147.3217,859.04539"
+       position="469.82711,858.9717"
        orientation="1,0"
        id="guide5148" />
   </sodipodi:namedview>
@@ -6326,7 +6326,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-563.28495,6.5673495)"
+     transform="translate(-240.77955,6.4936895)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
@@ -6478,7 +6478,7 @@
     <rect
        ry="0"
        y="301.20728"
-       x="280.5343"
+       x="280.78409"
        height="34.406975"
        width="198.10355"
        id="rect5215"
@@ -6488,7 +6488,7 @@
        id="rect5213"
        width="198.10355"
        height="30.41041"
-       x="281.03387"
+       x="280.78409"
        y="270.79688"
        ry="0" />
     <g
@@ -6692,70 +6692,70 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84887505px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00745424px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="329.80112"
+       x="344.49576"
        y="268.72183"
        id="text5497"
        sodipodi:linespacing="100%"
        transform="scale(0.90806768,1.1012395)"><tspan
          sodipodi:role="line"
-         id="tspan5423"
-         x="329.80112"
-         y="268.72183">C/ Alcácer, 21 bajo. 46980 Paterna (Valencia)</tspan><tspan
+         id="tspan5390"
+         x="344.49576"
+         y="268.72183">C/ Miguel Paredes, 1. 46018, Valencia</tspan><tspan
          sodipodi:role="line"
-         id="tspan5425"
-         x="329.80112"
+         id="tspan5392"
+         x="344.49576"
          y="276.57071"></tspan></text>
     <text
        transform="scale(0.84155604,1.188275)"
        sodipodi:linespacing="100%"
        id="text5503"
        y="231.45305"
-       x="366.86234"
+       x="366.56552"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97609901px;line-height:100%;font-family:Nunito;-inkscape-font-specification:Nunito;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00638088px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          id="tspan5505"
          y="231.45305"
-         x="366.86234"
+         x="366.56552"
          sodipodi:role="line" /><tspan
          id="tspan5507"
          y="239.42915"
-         x="366.86234"
+         x="366.56552"
          sodipodi:role="line">Sede Valencia Créixer- Intermediación Laboral</tspan><tspan
          id="tspan5509"
          y="247.40524"
-         x="366.86234"
+         x="366.56552"
          sodipodi:role="line" /></text>
     <text
        transform="scale(0.83502837,1.1975641)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91422987px;line-height:100%;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:-0.00633139px;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="351.58917"
+       x="359.90793"
        y="253.02551"
        id="text5511"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.90793"
          y="253.02551"
          id="tspan5513" /><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.90793"
          y="260.93973"
          id="tspan5515">Sede La Coma - Espai Novaterra/ Centro Formación</tspan><tspan
          sodipodi:role="line"
-         x="351.58917"
+         x="359.90793"
          y="268.85397"
          id="tspan5517" /></text>
     <text
        sodipodi:linespacing="100%"
        id="text5519"
        y="269.41867"
-       x="371.3974"
+       x="374.16412"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.20537472px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00684303px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"
        transform="scale(0.83361163,1.1995994)"><tspan
          sodipodi:role="line"
          id="tspan5421"
-         x="371.3974"
+         x="374.16412"
          y="269.41867">C/ Alcácer, 21 bajo. 46980 Paterna (Valencia)</tspan></text>
     <path
        style="fill:#786daa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7788,5 +7788,5 @@
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     transform="translate(-500.11836,-139.67656)" />
+     transform="translate(-177.61296,-139.75022)" />
 </svg>
